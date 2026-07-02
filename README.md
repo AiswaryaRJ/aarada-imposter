@@ -28,7 +28,7 @@ This project started as a quick idea… and turned into a working web game.
 
 ## 🖼️ Preview
 
-![Game Screenshot]( <img width="761" height="1137" alt="Screenshot 2026-07-02 230443" src="https://github.com/user-attachments/assets/23b198a7-42a2-40a1-8344-b3d4b3f2bc87" />) 
+ <img width="761" height="1137" alt="Screenshot 2026-07-02 230443" src="https://github.com/user-attachments/assets/23b198a7-42a2-40a1-8344-b3d4b3f2bc87" />
 
 ---
 
