@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎭 Aarada Imposter?
 
-## Getting Started
+A simple, fun **Impostor-style party game** with a Malayalam touch — built for friends to play together without ads or interruptions.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💡 Why this project?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+While playing an impostor game app, we ran into constant ads and paywalls.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Instead of ignoring it, I thought:
+> “Why not build a simpler version myself?”
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project started as a quick idea… and turned into a working web game.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🎮 Local Pass & Play (single device)
+- 👥 Supports multiple players (3–20)
+- 🕵️ Dynamic impostor selection
+- 🎯 Adjustable difficulty levels
+- 🌐 Malayalam-friendly UI
+- ❌ No ads, no interruptions
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🖼️ Preview
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Game Screenshot]( <img width="761" height="1137" alt="Screenshot 2026-07-02 230443" src="https://github.com/user-attachments/assets/23b198a7-42a2-40a1-8344-b3d4b3f2bc87" />) 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ⚙️ Tech Stack
+
+- Frontend: AI-generated Web UI  
+- Hosting: Vercel  
+- Backend / DB: Supabase  
+- Development Support: Claude  
+
+---
+
+## 🎮 How to Play
+
+1. Select number of players  
+2. Adjust number of impostors  
+3. Choose category & difficulty 
+
+4. Start the game  
+5. Pass the device and reveal roles  
+6. Discuss and vote  
+7. Find the impostor!  
+
+---
+
+## 🔮 Phase 2 (Coming Soon)
+
+- 🌐 Online multiplayer (each player uses their own phone)  
+- 🔐 Private role reveal  
+- ⚡ Real-time voting system  
+- 🎯 Faster gameplay experience  
+
+---
+
+## 🧠 What I learned
+
+- Turning a small problem into a real product  
+- Designing game logic and constraints  
+- Using AI tools to build without traditional coding  
+- Deploying and sharing a live project  
+
+---
+
+## 🔗 Live Demo
+
+👉 https://aarada-imposter.vercel.app/
+
+---
+
+## 🤝 Feedback
+
+This is an early version — feedback and suggestions are welcome!
